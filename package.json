@@ -1,0 +1,12 @@
+{
+  "name": "test-library",
+  "version": "1.0.0",
+  "description": "test library for uploaded to npm server",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "denycode-dev",
+  "license": "MIT"
+}
